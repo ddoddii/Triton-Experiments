@@ -1,0 +1,2 @@
+*.onnx filter=lfs diff=lfs merge=lfs -text
+bert-base-uncased/model_repository/bert-base-uncased/1/model.onnx filter=lfs diff=lfs merge=lfs -text
